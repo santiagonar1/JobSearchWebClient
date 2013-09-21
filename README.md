@@ -1,4 +1,4 @@
 JobSearchWebClient
 ==================
 
-Cliente para el JobSearchWeb
+Cliente para el JobSearchWebService
